@@ -1,1 +1,21 @@
 
+# Hinge Loss Perceptron Project
+
+## Overview
+This project contains an implementation of a Perceptron using the Hinge loss function. The Perceptron is a simple yet effective algorithm used for binary classification.
+
+## Files
+- **Hinge-loss-perceptron.ipynb**: Jupyter Notebook containing the code for implementing the Perceptron model with Hinge loss.
+- **README.md**: This file, provides an overview and description of the project.
+
+## Requirements
+To run this code, you will need:
+- Python 3.x
+- Jupyter Notebook
+- Libraries such as `numpy`, `matplotlib`, and any other required dependencies listed in the notebook.
+
+## Usage
+Open the Jupyter Notebook and follow the cells to understand and execute the code for training and testing the Perceptron model using Hinge loss.
+
+## Purpose
+This project aims to demonstrate how Hinge loss can be used in a Perceptron algorithm.
