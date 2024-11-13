@@ -1,1 +1,43 @@
 
+# Customer Churn Analysis
+
+## Overview
+This project aims to predict customer churn in a subscription-based business. We analyze customer data, build a model to predict churn and identify key factors contributing to customer retention.
+
+## Data Description
+The dataset includes the following features:
+
+- **CustomerID**: Unique ID for each customer
+- **Age**: Customer age
+- **Gender**: Customer gender
+- **Tenure**: Number of months with the service
+- **ServicePlan**: Plan type (Basic/Premium)
+- **MonthlyCharges**: Monthly fee
+- **TotalCharges**: Total charges
+- **Churn**: Target variable (Yes/No)
+
+## Technologies Used
+- **Python**: Pandas, NumPy, Scikit-learn
+- **Data Visualization**: Matplotlib, Seaborn
+- **Environment**: Jupyter Notebook
+
+## Model Development
+- **Preprocessing**: Handle missing values, encode categorical variables, and scale features.
+- **Evaluation**: Accuracy.
+
+## Results
+- **Best Model**: Random Forest (Accuracy: 80%)
+
+## Installation & Usage
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Rajnishmishra2002/Customer_Churn_Analysis.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Jupyter notebook:
+   ```bash
+   jupyter notebook Customer_Churn_Analysis.ipynb
+   ```
