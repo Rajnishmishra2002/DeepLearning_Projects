@@ -1,4 +1,6 @@
 Padding & Strides in Convolutional Neural Networks
+
+
 This repository contains a Jupyter Notebook that explores the concepts of padding and strides in convolutional neural networks (CNNs). These fundamental techniques impact the output size, feature extraction, and computational efficiency of convolutional layers.
 
 Overview
